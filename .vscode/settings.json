@@ -1,6 +1,0 @@
-{
-    "github.copilot.chat.claudeAgent.allowAutoPermissions": true,
-    "github.copilot.chat.claudeAgent.useSdkExtension": true,
-    "github.copilot.chat.codesearch.enabled": true,
-    "git.ignoreLimitWarning": true
-}
