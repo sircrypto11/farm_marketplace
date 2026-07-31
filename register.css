@@ -1,0 +1,44 @@
+* {
+  margin: 2px;
+  padding: 2px;
+  font-family: arial;
+  color:rgb(98, 20, 233);
+}
+h1 {
+    text-align:center;
+    text-decoration:underline;
+    
+}
+#navbar {
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+  align-items:center;
+}
+p {
+    text-align:justify;
+    text-indent: 100px;
+}
+.home {
+    text-decoration:bold;
+    color:rgb(203, 161, 7);
+}
+.products.html {
+    text-decoration:bold;
+    color:rgb(240, 191, 15);
+}
+background {
+    background-color:rgb(15, 221, 22);
+}
+ul li {
+    display:inline;
+
+}
+li a {
+    text-decoration:none;
+
+}
+#logo {
+    border: solid white;
+    border-radius: 50%;
+}
