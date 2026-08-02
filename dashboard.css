@@ -56,3 +56,13 @@ li a {
 .get{ border: black 
 
 }
+.form { background-color: #dbe5db;
+    padding-bottom: 2px;
+    text-align: left;
+    border: 1px solid black;
+    margin: 20px 500px 500px 100px;
+
+}
+footer{
+    background-color:black;
+}
