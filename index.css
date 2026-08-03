@@ -42,3 +42,13 @@ li a {
     border: solid white;
     border-radius: 50%;
 }
+.farmer {background-color: #dbe5db;
+    padding-bottom: 2px;
+    text-align: left;
+    border: 1px solid black;
+    margin: 20px 50px 50px 50px;
+
+
+}
+footer{
+    background-color:black;}
