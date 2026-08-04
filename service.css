@@ -11,14 +11,17 @@ ol li { border: 1px solid black;
 }
 h1 {
     text-align:center;
-    text-decoration:underline;
+    text-decoration:underline;}
     
-}
-#navbar {
+.navbar {
   display:flex;
   flex-direction:row;
   justify-content:space-between;
   align-items:center;
+  border: solid black;
+  margin: 50px 200px 10px;
+  background-color:greenyellow
+
 }
 p {
     text-align:justify;

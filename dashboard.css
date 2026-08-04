@@ -1,3 +1,4 @@
+
 .get {
     background-color: #dbe5db;
     padding-bottom: 2px;
@@ -6,7 +7,6 @@
     margin: 20px 500px 500px 100px;
 
 }
-
 
 
 * {
@@ -20,11 +20,15 @@ h1 {
     text-decoration:underline;
     
 }
-#navbar {
+.navbar {
   display:flex;
   flex-direction:row;
   justify-content:space-between;
   align-items:center;
+  border: solid black;
+  margin: 50px 200px 10px;
+  background-color:greenyellow
+
 }
 p {
     text-align:justify;
@@ -67,6 +71,14 @@ footer{
     background-color:black;
 }
 .farmer {background-color: #dbe5db;
+    padding-bottom: 2px;
+    text-align: left;
+    border: 1px solid black;
+    margin: 20px 50px 50px 50px;
+
+
+}
+.options {background-color: #05db05;
     padding-bottom: 2px;
     text-align: left;
     border: 1px solid black;

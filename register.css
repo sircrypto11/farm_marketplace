@@ -6,15 +6,16 @@
 }
 h1 {
     text-align:center;
-    text-decoration:underline;
-    
-}
-#navbar {
+    text-decoration:underline;}
+   .navbar {
   display:flex;
   flex-direction:row;
   justify-content:space-between;
   align-items:center;
-}
+  border: solid black;
+  margin: 50px 200px 10px;
+  background-color:greenyellow
+   }
 p {
     text-align:justify;
     text-indent: 100px;
@@ -44,3 +45,15 @@ li a {
 }
 footer{
     background-color:black;}
+#form {background-color: #dbe5db;
+    padding-bottom: 2px;
+    text-align: left;
+    border: 1px solid black;
+    margin: 20px 500px 50px 50px;}
+    .flex-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 1px solid #ccc;
+            height: 250px;
+            background-color: grey;}
