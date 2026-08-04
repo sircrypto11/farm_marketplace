@@ -2,7 +2,7 @@
   margin: 2px;
   padding: 2px;
   font-family: arial;
-  color:rgb(98, 20, 233);
+  color:rgb(15, 15, 15);
 }
 h1 {
     text-align:center;
@@ -55,4 +55,4 @@ li a {
 
 }
 footer{
-    background-color:black;}
+    background-color:rgb(16, 216, 76);}
