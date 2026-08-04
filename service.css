@@ -51,4 +51,8 @@ li a {
     border-radius: 50%;
 }
 footer{
-    background-color:rgb(166, 19, 19);}
+    background-color:rgb(166, 19, 19);}body 
+
+    body {
+    background-image: url(wheat.png);
+}
