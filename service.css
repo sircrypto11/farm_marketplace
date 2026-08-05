@@ -56,3 +56,14 @@ footer{
     body {
     background-image: url(wheat.png);
 }
+a:link {color:Green;
+    background-color: transparent;
+
+}
+a:visited { color: grey;
+    background-color: transparent;
+
+}
+a:link {
+    color:blue;
+}
