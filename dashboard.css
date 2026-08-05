@@ -96,3 +96,18 @@ body {
     background-image: url(wheat.png);
 
 }
+a:active {
+    color: yellow;
+    background-color: transparent;
+}   
+a:visited {
+    color: grey;
+    background-color: transparent;
+}
+a:link {
+    color:rgb(4, 248, 4);
+    background-color: transparent;
+}       
+a:hover {
+    color: maroon;
+}       
