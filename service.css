@@ -67,10 +67,23 @@ a:visited { color: grey;
 a:hover {
     color: maroon;
 }
-table {
+table, th, td{
     border: solid black;
     background-color:greenyellow;
+     border-collapse: collapse;
 }
-tr td {
-    border: solid black;
+a:active {
+    color: yellow;
+    background-color: transparent;
+}   
+a:visited {
+    color: grey;
+    background-color: transparent;
 }
+a:link {
+    color:rgb(4, 248, 4);
+    background-color: transparent;
+}       
+a:hover {
+    color: maroon;
+}       
