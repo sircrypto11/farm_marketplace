@@ -23,8 +23,9 @@ h1 {
 .navbar {
   display:flex;
   flex-direction:row;
-  justify-content:space-between;
-  align-items:center;
+  flex-wrap: nowrap;
+  justify-content:ease;
+  align-items:start;
   border: solid black;
   margin: 50px 200px 10px;
   background-color:greenyellow
