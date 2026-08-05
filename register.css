@@ -13,7 +13,6 @@ h1 {
   justify-content:space-between;
   align-items:center;
   border: solid black;
-  margin: 50px 200px 10px;
   background-color:greenyellow
    }
 p {
@@ -50,6 +49,7 @@ footer{
     text-align: left;
     border: 1px solid black;
     margin: 20px 500px 50px 50px;}
+
     .flex-container {
             display: flex;
             justify-content: center;
