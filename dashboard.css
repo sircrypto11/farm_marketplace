@@ -24,6 +24,7 @@ h1 {
   align-items: start;
   border: solid black;
   background-color: greenyellow;
+  max-width: 100%;
 }
 p {
   text-align: justify;
