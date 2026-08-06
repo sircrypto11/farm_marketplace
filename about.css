@@ -1,0 +1,113 @@
+
+
+.get {
+    background-color: #dbe5db;
+    padding-bottom: 2px;
+    text-align: left;
+    border: 1px solid black;
+    margin: 20px 500px 500px 100px;
+
+}
+
+
+* {
+  margin: 2px;
+  padding: 2px;
+  font-family: arial;
+  color:rgb(14, 14, 15);
+}
+h1 {
+    text-align:center;
+    text-decoration:underline;
+    
+}
+.navbar {
+  display:flex;
+  flex-direction:row;
+  flex-wrap: nowrap;
+  justify-content:ease;
+  align-items:start;
+  border: solid black;
+  background-color:greenyellow
+
+}
+p {
+    text-align:justify;
+    text-indent: 100px;
+}
+.home {
+    text-decoration:bold;
+    color:rgb(203, 161, 7);
+}
+.products.html {
+    text-decoration:bold;
+    color:rgb(240, 191, 15);
+}
+background {
+    background-color:rgb(15, 221, 22);
+}
+ul li {
+    display:inline;
+
+}
+li a {
+    text-decoration:none;
+
+}
+#logo {
+    border: solid white;
+    border-radius: 50%;
+}
+.get{ border: black 
+
+}
+.form { background-color: #dbe5db;
+    padding-bottom: 2px;
+    text-align: left;
+    border: 1px solid black;
+    margin: 20px 500px 500px 100px;
+
+}
+footer{
+    background-color:rgb(12, 181, 63);
+}
+.farmer {background-color: #dbe5db;
+    padding-bottom: 2px;
+    text-align: left;
+    border: 1px solid black;
+    margin: 20px 50px 50px 50px;
+display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:16px;
+    height:100;
+    align-items: flex-center;
+
+
+}
+.options {background-color: #05db05;
+    padding-bottom: 2px;
+    text-align: left;
+    border: 1px solid black;
+    margin: 20px 50px 50px 50px;
+
+
+}
+body {
+    background-image: url(wheat.png);
+
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+}   
+a:visited {
+    color: grey;
+    background-color: transparent;
+}
+a:link {
+    color:rgb(4, 248, 4);
+    background-color: transparent;
+}       
+a:hover {
+    color: maroon;}
