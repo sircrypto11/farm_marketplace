@@ -24,7 +24,7 @@ h1 {
   align-items: start;
   border: solid black;
   background-color: greenyellow;
-  max-width: 100%;
+  
 }
 p {
   text-align: justify;
@@ -53,13 +53,18 @@ li a {
 }
 .Get {
   display: flex;
-  flex-direction:column;
+  flex-direction: column;
   flex-wrap: nowrap;
   justify-content: ease;
   align-items: start;
   border: solid black;
-  background-color: #dbe5db;
+  background-color: greenyellow;
+  max-width: 100%;
+  box-sizing: border-box;
+  word-break: break-word;
+  overflow:break-word ;
 }
+
 .form {
   background-color: #dbe5db;
   padding-bottom: 2px;
@@ -82,6 +87,10 @@ footer {
   gap: 16px;
   height: 100;
   align-items: flex-center;
+  max-width: 100%;
+  box-sizing: border-box;
+  word-break: break-word;
+  overflow:break-word ;
 }
 .options {
   background-color: #05db05;
