@@ -50,8 +50,14 @@ li a {
   border: solid white;
   border-radius: 50%;
 }
-.get {
-  border: black;
+.Get {
+  display: flex;
+  flex-direction:column;
+  flex-wrap: nowrap;
+  justify-content: ease;
+  align-items: start;
+  border: solid black;
+  background-color: #dbe5db;
 }
 .form {
   background-color: #dbe5db;
