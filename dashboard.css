@@ -47,7 +47,7 @@ ul li {
 li a {
   text-decoration: none;
 }
-#logo {
+.logo {
   border: solid white;
   border-radius: 50%;
 }
