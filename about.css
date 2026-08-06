@@ -14,7 +14,7 @@
   margin: 2px;
   padding: 2px;
   font-family: arial;
-  color:rgb(14, 14, 15);
+  color:rgb(8, 8, 8);
 }
 h1 {
     text-align:center;
@@ -93,10 +93,8 @@ display: flex;
 
 
 }
-body {
-    background-image: url(wheat.png);
 
-}
+
 a:active {
     color: yellow;
     background-color: transparent;
