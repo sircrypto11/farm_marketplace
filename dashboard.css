@@ -127,9 +127,17 @@ grid-template-columns: "navbar navbar"
 #navbar {
   background-color: #05db05;
   grid-area: "navbar";
+  display: flex;
+
 }
 #sidebar {
   background-color: yellow;
   grid-area: "sidebar";
-
+  position:fixed;
+  top: 0;
+  right: 0;
+  width: 200;
+  min-height: 120;
+  padding: 30px;
+flex-direction: column;
 }
