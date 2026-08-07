@@ -117,3 +117,19 @@ a:link {
 a:hover {
   color: maroon;
 }
+#gri_container {
+display: grid;
+grid-template-columns: "navbar navbar"
+                        "sidebar content"
+                        "sidebar footer";
+
+}
+#navbar {
+  background-color: #05db05;
+  grid-area: "navbar";
+}
+#sidebar {
+  background-color: yellow;
+  grid-area: "sidebar";
+
+}
